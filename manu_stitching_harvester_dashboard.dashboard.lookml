@@ -1,5 +1,5 @@
 - dashboard: manu_stitching_harvester_dashboard
-  title: Manu Stitching Harvester Dashboard
+  title: Manu. Stitching Harvester Dashboard
   layout: newspaper
   preferred_viewer: dashboards-next
   tile_size: 100
